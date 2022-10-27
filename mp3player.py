@@ -1,3 +1,15 @@
+//////////////////////////
+/* 
+    WELCOME TO MY "MP3 PLAYER" PROJECT
+    Name : ROHIT MEKHE
+    Date : 27/10/2022
+    Influenced/Supported by : Indira College Of Commerce and Science
+  	
+*/ 
+//////////////////////////
+
+
+
 from tkinter import *
 import pygame
 from tkinter import filedialog
